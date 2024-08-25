@@ -7,3 +7,5 @@
 2) https://jameshfisher.com/2018/02/19/how-to-syscall-in-c/
 
 3) https://linux.die.net/man/2/syscall 
+
+4) https://linuxhint.com/list_of_linux_syscalls/
